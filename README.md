@@ -7,6 +7,14 @@ Este repositorio se utiliza para:
 - Practicar las funciones de Git
 - Otras cosas...
 
+
+| Herramienta   |  Uso principal |    Gratuita |
+| ------------- | ------------- | ------------- |
+| Nombre1       | Apellido1     | Alumno       |
+| Nombre2       | Apellido2     | Alumno    |
+| Nombre2       | Apellido2     | Profesor  |
+
+
 ---
 
 *Creado durante la clase de #include13 día 1 en el repositorio [Ex-1215](https://github.com/Ex-1215/)
